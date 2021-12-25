@@ -1,7 +1,7 @@
 {
   "events": [
     {
-      "id": "5928101",
+      "id": "120",
       "category": "animal welfare",
       "title": "Cat Adoption Day",
       "description": "Find your new feline at this event",
@@ -12,7 +12,7 @@
       "organizer":"Kat Laydee"
     },
     {
-      "id": "5928101",
+      "id": "130",
       "category": "animal welfare",
       "title": "Community Garding",
       "description": "Find your new feline at this event",
@@ -23,12 +23,23 @@
       "organizer":"Kat Laydee"
     },
     {
-      "id": "5928101",
+      "id": "140",
       "category": "animal welfare",
       "title": "Beach Cleanup",
       "description": "Find your new feline at this event",
       "location": "Meow Town",
       "date": "July 7, 2021",
+      "time": "12:00",
+      "petsAllowed": "true",
+      "organizer":"Kat Laydee"
+    },
+    {
+      "id": "150",
+      "category": "animal welfare",
+      "title": "Learning Vue 3",
+      "description": "Find your new feline at this event",
+      "location": "Meow Town",
+      "date": "February 17, 2022",
       "time": "12:00",
       "petsAllowed": "true",
       "organizer":"Kat Laydee"
